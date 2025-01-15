@@ -67,6 +67,4 @@ Feel free to connect with me for feedback or collaboration:
 - **[LinkedIn](https://linkedin.com/in/chaitalikhadse)**
 - **[GitHub](https://github.com/chaitali-khadse)**
 
----
 
-Add the images to the GitHub repository (`Picture1excel.png`, `Picture2excel.png`, etc.) and ensure the paths match the filenames. Let me know if you need help with uploading or final adjustments!
