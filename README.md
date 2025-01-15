@@ -52,14 +52,18 @@ Retailers need to identify key customer segments and their preferences to increa
 
 ## 📷 Screenshots
 ### Dashboard Overview
-![Dashboard Overview](Picture1excel.png)
+![Dashboard](Picture6.png)
 
 ### Key Insights
+1. Male customers with a higher income tend to purchase more bikes compared to females, indicating that targeted marketing efforts could be focused on higher-income male demographics
+![Dashboard Overview](Picture1excel.png)
+2. Middle-aged customers dominate bike purchases. This insight could help bike retailers focus their advertising campaigns on this age group
 ![Key Insight 1](Picture2excel.png)
+3. Most bike users commute shorter distances (1-5 miles), suggesting bikes are preferred for short commutes. This could influence retailers to promote bikes as an eco-friendly, cost-effective option for short daily commutes
 ![Key Insight 2](Picture3excel.png)
-
-### Data Visualizations
+4. Professional and skilled manual workers show a higher tendency to purchase bikes. Retailers could design special offers or financing plans tailored for these groups
 ![Visualization 1](Picture4excel.png)
+5. The number of bikes purchased decreases as commute distance increases, indicating a potential for retailers to innovate in promoting bikes for longer commutes
 ![Visualization 2](Picture5excel.png)
 
 ---
